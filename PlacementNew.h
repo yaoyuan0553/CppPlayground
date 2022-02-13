@@ -1,0 +1,10 @@
+//
+// Created by yuan on 2/12/22.
+//
+
+#pragma once
+#ifndef CPPPLAYGROUND_PLACEMENTNEW_H
+#define CPPPLAYGROUND_PLACEMENTNEW_H
+
+
+#endif //CPPPLAYGROUND_PLACEMENTNEW_H

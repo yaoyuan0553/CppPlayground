@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerExplorerSettingsProvider">
+    <option name="enabled" value="false" />
+    <option name="connected" value="true" />
+    <option name="remoteCompilers">
+      <list>
+        <RemoteCompilerInfo>
+          <option name="id" value="/usr/bin/gcc" />
+          <option name="name" value="/usr/bin/gcc" />
+          <option name="language" value="c" />
+          <option name="version" value="gcc (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0" />
+        </RemoteCompilerInfo>
+        <RemoteCompilerInfo>
+          <option name="id" value="/usr/bin/gcc-4.6" />
+          <option name="name" value="/usr/bin/gcc-4.6" />
+          <option name="language" value="c" />
+          <option name="version" value="gcc-4.6 (Ubuntu/Linaro 4.6.4-6ubuntu2) 4.6.4" />
+        </RemoteCompilerInfo>
+        <RemoteCompilerInfo>
+          <option name="id" value="/usr/bin/gcc-7" />
+          <option name="name" value="/usr/bin/gcc-7" />
+          <option name="language" value="c" />
+          <option name="version" value="gcc-7 (Ubuntu 7.5.0-6ubuntu2) 7.5.0" />
+        </RemoteCompilerInfo>
+        <RemoteCompilerInfo>
+          <option name="id" value="/usr/bin/ocamlopt" />
+          <option name="name" value="/usr/bin/ocamlopt" />
+          <option name="language" value="ocaml" />
+          <option name="version" value="4.08.1" />
+        </RemoteCompilerInfo>
+        <RemoteCompilerInfo>
+          <option name="id" value="defaultgnuas" />
+          <option name="name" value="GNU AS (default)" />
+          <option name="language" value="assembly" />
+          <option name="version" value="GNU assembler (GNU Binutils for Ubuntu) 2.34" />
+        </RemoteCompilerInfo>
+        <RemoteCompilerInfo>
+          <option name="id" value="defaultnasm" />
+          <option name="name" value="NASM (default)" />
+          <option name="language" value="assembly" />
+          <option name="version" value="NASM version 2.14.02" />
+        </RemoteCompilerInfo>
+        <RemoteCompilerInfo>
+          <option name="id" value="python35" />
+          <option name="name" value="Python 3.5" />
+          <option name="language" value="python" />
+        </RemoteCompilerInfo>
+        <RemoteCompilerInfo>
+          <option name="id" value="python36" />
+          <option name="name" value="Python 3.6" />
+          <option name="language" value="python" />
+        </RemoteCompilerInfo>
+        <RemoteCompilerInfo>
+          <option name="id" value="python37" />
+          <option name="name" value="Python 3.7" />
+          <option name="language" value="python" />
+        </RemoteCompilerInfo>
+        <RemoteCompilerInfo>
+          <option name="id" value="python38" />
+          <option name="name" value="Python 3.8" />
+          <option name="language" value="python" />
+        </RemoteCompilerInfo>
+        <RemoteCompilerInfo>
+          <option name="id" value="irclang" />
+          <option name="name" value="clang 3.9.1" />
+          <option name="language" value="llvm" />
+          <option name="version" value="Ubuntu clang version 11.0.0-2~ubuntu20.04.1" />
+        </RemoteCompilerInfo>
+        <RemoteCompilerInfo>
+          <option name="id" value="clangdefault" />
+          <option name="name" value="clang default" />
+          <option name="language" value="c++" />
+          <option name="version" value="Ubuntu clang version 11.0.0-2~ubuntu20.04.1" />
+        </RemoteCompilerInfo>
+        <RemoteCompilerInfo>
+          <option name="id" value="g46" />
+          <option name="name" value="g++ 4.6" />
+          <option name="language" value="c++" />
+          <option name="version" value="g++-4.6 (Ubuntu/Linaro 4.6.4-6ubuntu2) 4.6.4" />
+        </RemoteCompilerInfo>
+        <RemoteCompilerInfo>
+          <option name="id" value="g7" />
+          <option name="name" value="g++ 7.x" />
+          <option name="language" value="c++" />
+          <option name="version" value="g++-7 (Ubuntu 7.5.0-6ubuntu2) 7.5.0" />
+        </RemoteCompilerInfo>
+        <RemoteCompilerInfo>
+          <option name="id" value="gdefault" />
+          <option name="name" value="g++ default" />
+          <option name="language" value="c++" />
+          <option name="version" value="g++ (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0" />
+        </RemoteCompilerInfo>
+      </list>
+    </option>
+    <option name="localCompilerSettings">
+      <map>
+        <entry>
+          <key>
+            <LocalCompilerPath>
+              <option name="path" value="/usr/bin/g++-10" />
+            </LocalCompilerPath>
+          </key>
+          <value>
+            <LocalCompilerSettings>
+              <option name="name" value="GCC" />
+              <option name="version" value="10.3.0" />
+              <option name="target" value="x86_64" />
+            </LocalCompilerSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="filters">
+      <Filters>
+        <option name="demangle" value="true" />
+      </Filters>
+    </option>
+    <option name="compilerMatches">
+      <map>
+        <entry>
+          <key>
+            <LocalCompilerPath>
+              <option name="path" value="/usr/bin/g++-10" />
+            </LocalCompilerPath>
+          </key>
+          <value>
+            <CompilerMatches>
+              <option name="chosenMatch">
+                <CompilerMatch>
+                  <option name="remoteCompilerInfo">
+                    <RemoteCompilerInfo>
+                      <option name="id" value="gdefault" />
+                      <option name="name" value="g++ default" />
+                      <option name="language" value="c++" />
+                      <option name="version" value="g++ (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0" />
+                    </RemoteCompilerInfo>
+                  </option>
+                </CompilerMatch>
+              </option>
+              <option name="otherMatches">
+                <list>
+                  <CompilerMatch>
+                    <option name="remoteCompilerInfo">
+                      <RemoteCompilerInfo>
+                        <option name="id" value="clangdefault" />
+                        <option name="name" value="clang default" />
+                        <option name="language" value="c++" />
+                        <option name="version" value="Ubuntu clang version 11.0.0-2~ubuntu20.04.1" />
+                      </RemoteCompilerInfo>
+                    </option>
+                  </CompilerMatch>
+                  <CompilerMatch>
+                    <option name="remoteCompilerInfo">
+                      <RemoteCompilerInfo>
+                        <option name="id" value="g46" />
+                        <option name="name" value="g++ 4.6" />
+                        <option name="language" value="c++" />
+                        <option name="version" value="g++-4.6 (Ubuntu/Linaro 4.6.4-6ubuntu2) 4.6.4" />
+                      </RemoteCompilerInfo>
+                    </option>
+                  </CompilerMatch>
+                  <CompilerMatch>
+                    <option name="remoteCompilerInfo">
+                      <RemoteCompilerInfo>
+                        <option name="id" value="g7" />
+                        <option name="name" value="g++ 7.x" />
+                        <option name="language" value="c++" />
+                        <option name="version" value="g++-7 (Ubuntu 7.5.0-6ubuntu2) 7.5.0" />
+                      </RemoteCompilerInfo>
+                    </option>
+                  </CompilerMatch>
+                  <CompilerMatch>
+                    <option name="remoteCompilerInfo">
+                      <RemoteCompilerInfo>
+                        <option name="id" value="gdefault" />
+                        <option name="name" value="g++ default" />
+                        <option name="language" value="c++" />
+                        <option name="version" value="g++ (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0" />
+                      </RemoteCompilerInfo>
+                    </option>
+                  </CompilerMatch>
+                </list>
+              </option>
+            </CompilerMatches>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="additionalSwitches" value="-std=c++20 -fverbose-asm -O2" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="initialNoticeShown" value="true" />
+  </component>
+</project>
